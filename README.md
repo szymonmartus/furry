@@ -1,3 +1,6 @@
+#### [Live](https://szymonmartus.github.io/furry/)
+
+
 ### Gra "Furry zbiera monety"
 
 Bohaterem naszej gry jest **Furry**, który porusza się po planszy o rozmiarach 10x10 pól.
